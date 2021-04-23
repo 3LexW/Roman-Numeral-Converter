@@ -1,0 +1,21 @@
+#Nav > ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#Nav li{
+    list-style-type: none;
+    width: calc(100% / 3);
+    font-family: 'ADAM.CG PRO';
+    font-size: larger;
+}
+
+#Nav a{
+    color: black;
+}
+
+#Nav{
+    background-color: #e76f51;
+    padding: 10px;
+}

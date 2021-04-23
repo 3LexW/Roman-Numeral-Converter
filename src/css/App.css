@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "ADAM.CG PRO";
+    src: url("./fonts/ADAM.CG PRO.otf") format("opentype");
+    font-style: normal;
+    font-weight: 400;
+}
+
+body{
+    background-color: #f1faee;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
