@@ -1,3 +1,6 @@
+# Deployed online
+You can view the result without downloading anything by visiting [3LexW's website demonstration](https://gifted-meitner-6dda42.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
