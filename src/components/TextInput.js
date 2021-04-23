@@ -68,7 +68,7 @@ function TextInput(){
 
     return(
         <div id="textinput">
-            <input type="text" onChange={clearDisplay}></input>
+            <input type="text" onChange={clearDisplay} placeholder="e.g. 3, MMXXI"></input>
             <input type="button" value="Convert" onClick={calculate}></input>
             <div id = "result">{displayValue} </div>
         </div>
